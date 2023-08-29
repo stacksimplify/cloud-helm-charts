@@ -1,5 +1,16 @@
 apiVersion: v1
 entries:
+  mycloudchart1:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-08-29T06:52:51.514270179Z"
+    description: A Helm chart for Kubernetes
+    digest: 8c950d1523f6962c43ce5cc3178ebd0d267f92368faadc1de64451825b2fbc7c
+    name: mycloudchart1
+    type: application
+    urls:
+    - https://github.com/stacksimplify/cloud-helm-charts/releases/download/mycloudchart1-0.1.0/mycloudchart1-0.1.0.tgz
+    version: 0.1.0
   myfirstchart:
   - apiVersion: v2
     appVersion: 0.2.0
@@ -11,4 +22,4 @@ entries:
     urls:
     - https://github.com/stacksimplify/cloud-helm-charts/releases/download/myfirstchart-0.2.0/myfirstchart-0.2.0.tgz
     version: 0.2.0
-generated: "2023-08-29T06:47:30.973001027Z"
+generated: "2023-08-29T06:52:51.51427808Z"
