@@ -2,6 +2,17 @@ apiVersion: v1
 entries:
   mycloudchart1:
   - apiVersion: v2
+    appVersion: 0.4.0
+    created: "2023-11-24T06:48:36.630943131Z"
+    description: StackSimplify Cloud Helm Chart Contains a Kubernetes Load Balancer
+      and Deployment
+    digest: b984139a0b2f6be8eab44a22d1092da4982afe825e55dfbeecaff0e98100d4d0
+    name: mycloudchart1
+    type: application
+    urls:
+    - https://github.com/stacksimplify/cloud-helm-charts/releases/download/mycloudchart1-0.4.0/mycloudchart1-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
     appVersion: 0.3.0
     created: "2023-11-24T06:48:11.997256853Z"
     description: StackSimplify Cloud Helm Chart Contains a Kubernetes Load Balancer
@@ -43,4 +54,4 @@ entries:
     urls:
     - https://github.com/stacksimplify/cloud-helm-charts/releases/download/myfirstchart-0.2.0/myfirstchart-0.2.0.tgz
     version: 0.2.0
-generated: "2023-11-24T06:48:11.997269697Z"
+generated: "2023-11-24T06:48:36.630954963Z"
