@@ -36,7 +36,7 @@ or
 helm list
 
 # helm status
-helm status --show-resources
+helm status myapp1 --show-resources
 
 # List Pods
 kubectl get pods
